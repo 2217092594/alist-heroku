@@ -12,7 +12,7 @@ cat >/alist/config/conf.yml <<EOF
 info:
   title: $CTITLE
   logo:
-  footer_text: Cooluc's Blog
+  footer_text: 如遇到无法打开等情况，先去喝杯奶茶等待服务器重构即可(〜￣▽￣)〜
   footer_url: https://www.cooluc.com/
   music_img: https://cdn.jsdelivr.net/gh/sbwml/cdn@master/img/0f8b57866bdb5.gif
   check_update: false
