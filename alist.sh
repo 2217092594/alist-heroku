@@ -12,7 +12,7 @@ cat >/alist/config/conf.yml <<EOF
 info:
   title: $CTITLE
   logo:
-  footer_text: 遇到无法打开等情况,先去喝咖啡茶等待服务器重构即可(〜￣▽￣)〜
+  footer_text: 遇到无法打开等情况,先去喝咖啡等待服务器重构即可(〜￣▽￣)〜
   footer_url: https://z3.ax1x.com/2021/09/11/4Snh90.jpg
   music_img: https://cdn.jsdelivr.net/gh/sbwml/cdn@master/img/0f8b57866bdb5.gif
   check_update: false
